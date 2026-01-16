@@ -1,7 +1,6 @@
 <H1 style="font-weight: bold;">Nota Final 50/50</H1>
 UNIVERSIDADE DO VALE DO TAQUARI - UNIVATES
-TÉCNICAS E PRÁTICAS DE PROGRAMAÇÃO (2023/B)
-Prof. Mouriac Halen Diemer
+TÉCNICAS E PRÁTICAS DE PROGRAMAÇÃO (2023/B
 
 TRABALHO FINAL
 Desenvolver um sistema para controlar as despesas de uma família. 
